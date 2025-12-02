@@ -1,0 +1,87 @@
+[2025-11-24 22:52:13] Year:2018 | Round:1 | Race | Australian Grand Prix | Reason: Zero Data after Retry
+[2025-11-24 22:53:57] Year:2018 | Round:1 | Race | Australian Grand Prix | Reason: Zero Data after Retry
+[2025-11-24 23:00:18] Year:2018 | Round:2 | Race | Bahrain Grand Prix | Reason: Zero Data after Retry
+[2025-11-24 23:38:01] Year:2018 | Round:21 | Race | Abu Dhabi Grand Prix | Reason: Zero Data Saved
+[2025-11-24 23:40:25] Year:2018 | Round:1 | Race | Australian Grand Prix | Reason: Zero Data after Retry
+[2025-11-25 00:28:13] Year:2020 | Round:0 | Qualifying | Pre-Season Test 1 | Reason: Cannot get testing event by round number!
+[2025-11-25 00:29:13] Year:2020 | Round:0 | Race | Pre-Season Test 1 | Reason: Cannot get testing event by round number!
+[2025-11-25 00:30:13] Year:2020 | Round:0 | Qualifying | Pre-Season Test 2 | Reason: Cannot get testing event by round number!
+[2025-11-25 00:31:13] Year:2020 | Round:0 | Race | Pre-Season Test 2 | Reason: Cannot get testing event by round number!
+[2025-11-25 00:38:07] Year:2020 | Round:3 | Race | Hungarian Grand Prix | Reason: Zero Data Saved
+[2025-11-25 00:38:37] Year:2020 | Round:4 | Qualifying | British Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 00:39:38] Year:2020 | Round:4 | Race | British Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 00:40:38] Year:2020 | Round:5 | Qualifying | 70th Anniversary Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 00:41:39] Year:2020 | Round:5 | Race | 70th Anniversary Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 00:51:26] Year:2020 | Round:0 | Qualifying | Pre-Season Test 1 | Reason: Cannot get testing event by round number!
+[2025-11-25 00:52:26] Year:2020 | Round:0 | Race | Pre-Season Test 1 | Reason: Cannot get testing event by round number!
+[2025-11-25 00:53:26] Year:2020 | Round:0 | Qualifying | Pre-Season Test 2 | Reason: Cannot get testing event by round number!
+[2025-11-25 00:54:26] Year:2020 | Round:0 | Race | Pre-Season Test 2 | Reason: Cannot get testing event by round number!
+[2025-11-25 01:26:15] Year:2021 | Round:0 | Qualifying | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 01:27:15] Year:2021 | Round:0 | Race | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 01:39:37] Year:2021 | Round:6 | Race | Azerbaijan Grand Prix | Reason: Zero Data Saved
+[2025-11-25 01:55:47] Year:2020 | Round:0 | Qualifying | Pre-Season Test 1 | Reason: Cannot get testing event by round number!
+[2025-11-25 01:56:47] Year:2020 | Round:0 | Race | Pre-Season Test 1 | Reason: Cannot get testing event by round number!
+[2025-11-25 01:57:47] Year:2020 | Round:0 | Qualifying | Pre-Season Test 2 | Reason: Cannot get testing event by round number!
+[2025-11-25 01:58:47] Year:2020 | Round:0 | Race | Pre-Season Test 2 | Reason: Cannot get testing event by round number!
+[2025-11-25 01:59:54] Year:2021 | Round:0 | Qualifying | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 02:00:54] Year:2021 | Round:0 | Race | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 13:05:48] Year:2020 | Round:0 | Qualifying | Pre-Season Test 1 | Reason: Cannot get testing event by round number!
+[2025-11-25 13:06:48] Year:2020 | Round:0 | Race | Pre-Season Test 1 | Reason: Cannot get testing event by round number!
+[2025-11-25 13:07:48] Year:2020 | Round:0 | Qualifying | Pre-Season Test 2 | Reason: Cannot get testing event by round number!
+[2025-11-25 13:08:48] Year:2020 | Round:0 | Race | Pre-Season Test 2 | Reason: Cannot get testing event by round number!
+[2025-11-25 13:09:56] Year:2021 | Round:0 | Qualifying | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 13:10:56] Year:2021 | Round:0 | Race | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 13:33:37] Year:2022 | Round:0 | Qualifying | Pre-Season Track Session | Reason: Cannot get testing event by round number!
+[2025-11-25 13:34:37] Year:2022 | Round:0 | Race | Pre-Season Track Session | Reason: Cannot get testing event by round number!
+[2025-11-25 13:35:37] Year:2022 | Round:0 | Qualifying | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 13:36:37] Year:2022 | Round:0 | Race | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 13:49:33] Year:2022 | Round:6 | Qualifying | Spanish Grand Prix | Reason: Zero Data Saved
+[2025-11-25 13:50:06] Year:2022 | Round:6 | Race | Spanish Grand Prix | Reason: Zero Data Saved
+[2025-11-25 13:50:38] Year:2022 | Round:7 | Qualifying | Monaco Grand Prix | Reason: Zero Data Saved
+[2025-11-25 13:55:12] Year:2020 | Round:0 | Qualifying | Pre-Season Test 1 | Reason: Cannot get testing event by round number!
+[2025-11-25 13:56:12] Year:2020 | Round:0 | Race | Pre-Season Test 1 | Reason: Cannot get testing event by round number!
+[2025-11-25 13:57:12] Year:2020 | Round:0 | Qualifying | Pre-Season Test 2 | Reason: Cannot get testing event by round number!
+[2025-11-25 13:58:12] Year:2020 | Round:0 | Race | Pre-Season Test 2 | Reason: Cannot get testing event by round number!
+[2025-11-25 13:59:17] Year:2021 | Round:0 | Qualifying | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 14:00:17] Year:2021 | Round:0 | Race | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 14:01:25] Year:2022 | Round:0 | Qualifying | Pre-Season Track Session | Reason: Cannot get testing event by round number!
+[2025-11-25 14:02:25] Year:2022 | Round:0 | Race | Pre-Season Track Session | Reason: Cannot get testing event by round number!
+[2025-11-25 14:03:25] Year:2022 | Round:0 | Qualifying | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 14:04:25] Year:2022 | Round:0 | Race | Pre-Season Test | Reason: Cannot get testing event by round number!
+[2025-11-25 14:29:17] Year:2022 | Round:17 | Qualifying | Singapore Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 14:30:18] Year:2022 | Round:17 | Race | Singapore Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 14:31:18] Year:2022 | Round:18 | Qualifying | Japanese Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 14:32:19] Year:2022 | Round:18 | Race | Japanese Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 14:33:19] Year:2022 | Round:19 | Qualifying | United States Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:08:33] Year:2023 | Round:9 | Race | Austrian Grand Prix | Reason: Zero Data Saved
+[2025-11-25 15:09:03] Year:2023 | Round:10 | Qualifying | British Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:10:04] Year:2023 | Round:10 | Race | British Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:11:04] Year:2023 | Round:11 | Qualifying | Hungarian Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:12:05] Year:2023 | Round:11 | Race | Hungarian Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:13:05] Year:2023 | Round:12 | Qualifying | Belgian Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:14:06] Year:2023 | Round:12 | Race | Belgian Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:15:06] Year:2023 | Round:13 | Qualifying | Dutch Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:16:07] Year:2023 | Round:13 | Race | Dutch Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:17:07] Year:2023 | Round:14 | Qualifying | Italian Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:18:08] Year:2023 | Round:14 | Race | Italian Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:19:08] Year:2023 | Round:15 | Qualifying | Singapore Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:20:09] Year:2023 | Round:15 | Race | Singapore Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:21:09] Year:2023 | Round:16 | Qualifying | Japanese Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:22:10] Year:2023 | Round:16 | Race | Japanese Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:23:10] Year:2023 | Round:17 | Qualifying | Qatar Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:24:11] Year:2023 | Round:17 | Race | Qatar Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:25:11] Year:2023 | Round:18 | Qualifying | United States Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:26:12] Year:2023 | Round:18 | Race | United States Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:27:12] Year:2023 | Round:19 | Qualifying | Mexico City Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:28:13] Year:2023 | Round:19 | Race | Mexico City Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:29:13] Year:2023 | Round:20 | Qualifying | São Paulo Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:30:14] Year:2023 | Round:20 | Race | São Paulo Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:31:14] Year:2023 | Round:21 | Qualifying | Las Vegas Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:32:15] Year:2023 | Round:21 | Race | Las Vegas Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:33:15] Year:2023 | Round:22 | Qualifying | Abu Dhabi Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 15:34:16] Year:2023 | Round:22 | Race | Abu Dhabi Grand Prix | Reason: Failed to load any schedule data.
+[2025-11-25 16:47:58] Year:2024 | Round:7 | Race | Emilia Romagna Grand Prix | Reason: Zero Data Saved
+[2025-11-25 16:48:30] Year:2024 | Round:8 | Qualifying | Monaco Grand Prix | Reason: Zero Data Saved
+[2025-11-25 17:34:25] Year:2025 | Round:3 | Qualifying | Japanese Grand Prix | Reason: Zero Data Saved
+[2025-11-25 17:34:58] Year:2025 | Round:3 | Race | Japanese Grand Prix | Reason: Zero Data Saved
+[2025-11-25 17:35:28] Year:2025 | Round:4 | Qualifying | Bahrain Grand Prix | Reason: Failed to load any schedule data.
